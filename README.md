@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning c,java,phyton,html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-     ig:redalunettes
-     snap:reda_lunettes
+  
+- ig:redalunettes
+- snap:reda_lunettes
 
 - ⚡ Fun fact: ...
 
