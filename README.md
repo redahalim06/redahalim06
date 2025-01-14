@@ -1,13 +1,13 @@
 - 👋 Hi, I’m reda
-- 👀 I’m interested in ...
+- 👀 I’m interested in cheken
 - 🌱 I’m currently learning c,java,phyton,html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m on to collaborate on nasa and netflix 
+- 📫 How to reach me dont reach me
   
 - ig:redalunettes
 - snap:reda_lunettes
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: jss arabe
 
 <!---
 redahalim06/redahalim06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
